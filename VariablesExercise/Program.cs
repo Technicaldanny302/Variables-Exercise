@@ -11,7 +11,7 @@
             Console.WriteLine($"hey Janet you toatal will be {theNum}");
 
             char x = 'A';
-            Console.WriteLine("whats up, i got mike! yeah i got a {x} in physics");
+            Console.WriteLine($"whats up, i got mike! yeah i got a {x} in physics");
 
             bool Questions = false;
             Console.WriteLine("I heard you did'nt take take the trash out today");
